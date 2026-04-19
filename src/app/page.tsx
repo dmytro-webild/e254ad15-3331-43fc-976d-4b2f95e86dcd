@@ -117,9 +117,12 @@ export default function LandingPage() {
         { id: "p4", name: "Sizzling Brownie", price: "₹249", imageSrc: "http://img.b2bpic.net/free-photo/brownie-with-chocolate-sauce-powdered-sugar_140725-7775.jpg" },
         { id: "p5", name: "Grilled Wings", price: "₹299", imageSrc: "http://img.b2bpic.net/free-photo/baked-chicken-wings-with-teriyaki-sauce_2829-19754.jpg" },
         { id: "p6", name: "Artisan Cookies", price: "₹149", imageSrc: "http://img.b2bpic.net/free-photo/plain-chocolate-cookies-wooden-tray-blue-background-high-quality-photo_114579-75509.jpg" },
+        { id: "p7", name: "Espresso", price: "₹99", imageSrc: "http://img.b2bpic.net/free-photo/cup-coffee-table_23-2148316335.jpg" },
+        { id: "p8", name: "Berry Cheesecake", price: "₹399", imageSrc: "http://img.b2bpic.net/free-photo/berry-cheesecake_140725-7776.jpg" },
+        { id: "p9", name: "Garden Salad", price: "₹249", imageSrc: "http://img.b2bpic.net/free-photo/fresh-green-salad_140725-7777.jpg" }
       ]}
-      title="Signature Menu"
-      description="Explore our chef-curated best sellers."
+      title="Full Menu Selection"
+      description="Experience the full range of our handcrafted café favorites, from breakfast to dinner."
     />
   </div>
 
