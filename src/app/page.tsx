@@ -62,11 +62,11 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/crop-hand-pouring-milk-into-cup_23-2147764919.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/crop-hand-pouring-milk-into-cup_23-2147764919.jpg?_wi=1",
           imageAlt: "Fresh coffee pouring cup",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-yummy-waffle-cakes-with-fruits-dark-background_140725-133481.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-yummy-waffle-cakes-with-fruits-dark-background_140725-133481.jpg?_wi=1",
           imageAlt: "Delicious dessert plate cake",
         },
         {
@@ -126,7 +126,7 @@ export default function LandingPage() {
           description: "Freshly baked cakes, sizzling brownies, and decadent cookies.",
           bentoComponent: "reveal-icon",
           icon: Cake,
-          imageSrc: "http://img.b2bpic.net/free-photo/crop-hand-pouring-milk-into-cup_23-2147764919.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/crop-hand-pouring-milk-into-cup_23-2147764919.jpg?_wi=2",
           imageAlt: "Pouring fresh milk in coffee cup",
         },
         {
@@ -134,7 +134,7 @@ export default function LandingPage() {
           description: "Handcrafted coffees, signature shakes, and refreshing drinks.",
           bentoComponent: "reveal-icon",
           icon: Coffee,
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-yummy-waffle-cakes-with-fruits-dark-background_140725-133481.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-yummy-waffle-cakes-with-fruits-dark-background_140725-133481.jpg?_wi=2",
           imageAlt: "Pouring fresh milk in coffee cup",
         },
       ]}
